@@ -25,9 +25,9 @@ colors = ["blue", "white"]
 background(colors)
 
 # 이름과 설명, 버튼에 들어갈 글 설정
-write("김도훈", "")
-write("07년생", "")
-write("페북", "")
+write("name", "김도훈")
+write("description", "07년생")
+write("button", "페북")
 
 # 상세설명에 들어갈 제목과 글 설정
 informations = {
